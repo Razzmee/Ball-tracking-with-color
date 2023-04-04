@@ -13,15 +13,21 @@ be saved in the local hard disk. Details of which need to be shared at the time 
 submission 
 
 #Approach
+
 Task - 1
 Crop and rotate the video 
+
 Task - 2
 Detect the balls
+
 Task - 3
 find the color of each balls
+
 Task - 4
 find the quardent of each balls
+
 task - 5 
 find the entry and exit time when a ball is crossed it's quardent boundry
+
 task - 6
 write the inforamtion in the text file and also write the video 
