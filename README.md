@@ -27,7 +27,7 @@ Task - 4
 find the quardent of each balls
 
 task - 5 
-find the entry and exit time when a ball is crossed it's quardent boundry
+find the type of event , entry and exit time when a ball is crossed it's quardent boundry
 
 task - 6
 write the inforamtion in the text file and also write the video 
