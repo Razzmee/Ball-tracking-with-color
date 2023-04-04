@@ -31,3 +31,6 @@ find the type of event , entry and exit time when a ball is crossed it's quarden
 
 task - 6
 write the inforamtion in the text file and also write the video 
+
+
+![demo](https://user-images.githubusercontent.com/29145107/229869880-e8ea7d0f-ca98-4acb-b1fa-1460d10125ae.png)
