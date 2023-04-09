@@ -18,25 +18,25 @@ Task 1: Video Pre-processing
 Crop and rotate the video to remove unwanted background and align the frames for accurate ball tracking.
 
 Task 2: Ball Detection
-Develop an algorithm that can detect the presence of balls in each frame of the video.
-The algorithm should be able to identify the ball's position, size, and shape.
+Develop a function that can detect the presence of balls in each frame of the video.
+The function should be able to identify the ball's position.
 
 Task 3: Ball Color Recognition
-Develop an algorithm that can recognize the color of each ball.
-The algorithm should be able to differentiate between different colors of balls and provide accurate result.
+Develop a function that can recognize the color of each ball.
+The function should be able to differentiate between different colors of balls and provide accurate result.
 
 Task 4: Ball Position Tracking
-Develop an algorithm that can track the movement of each ball and calculate its position in each frame.
-The algorithm should be able to identify the quadrant in which the ball is located.
+Develop a function that can track the movement of each ball and calculate its position in each frame.
+The function should be able to identify the quadrant in which the ball is located.
 
 Task 5: Event Detection
-Develop an algorithm that can detect when a ball crosses its quadrant boundary.
-The algorithm should be able to identify the type of event (entry or exit) and the time at which it occurred.
+Develop an function that can detect when a ball crosses its quadrant boundary.
+The function should be able to identify the type of event (entry or exit) and the time at which it occurred.
 
 Task 6: Data Storage and Export
 Store the information gathered from the video analysis in a text file.
 Write the processed video with the ball tracking information overlaid on the frames.
-The text file should contain information about the position, color, and movement of each ball, as well as the time and type of event that occurred.
+
 
 
 ![demo](https://user-images.githubusercontent.com/29145107/229869880-e8ea7d0f-ca98-4acb-b1fa-1460d10125ae.png)
