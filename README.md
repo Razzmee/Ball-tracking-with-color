@@ -44,7 +44,9 @@ Write the processed video with the ball tracking information overlaid on the fra
 
 
 Ball Detection.py is used to show result.
+
 Write video.py  file is used to write result in video and text file.
+
 Information.txt file contain the required file.
 
 
