@@ -42,9 +42,10 @@ Write the processed video with the ball tracking information overlaid on the fra
 ![demo](https://user-images.githubusercontent.com/29145107/229869880-e8ea7d0f-ca98-4acb-b1fa-1460d10125ae.png)
 
 
+
+Ball Detection.py is used to show result.
+Write video.py  file is used to write result in video and text file.
+Information.txt file contain the required file.
+
+
 All tasks were completed successfully, but there was a slight loss in accuracy during ball detection. Therefore, I am  building an persistent object detection model that can more smoothly detect and recognize the balls to improve accuracy.
-
-
-# Ball Detection.py is used to show result.
-# Write video.py  file is used to write result in video and text file.
-# Information.txt file contain the required file.
