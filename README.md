@@ -42,4 +42,4 @@ Write the processed video with the ball tracking information overlaid on the fra
 ![demo](https://user-images.githubusercontent.com/29145107/229869880-e8ea7d0f-ca98-4acb-b1fa-1460d10125ae.png)
 
 
-All tasks were completed successfully, but there was a slight loss in accuracy during ball detection. Therefore, I am to build an object detection model that can more smoothly detect and recognize the balls to improve accuracy.
+All tasks were completed successfully, but there was a slight loss in accuracy during ball detection. Therefore, I am  building an persistent object detection model that can more smoothly detect and recognize the balls to improve accuracy.
