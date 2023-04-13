@@ -52,3 +52,6 @@ Information.txt file contain the required file.
 
 
 All tasks were completed successfully, but there was a slight loss in accuracy during ball detection. Therefore, I am  building an persistent object detection model that can more smoothly detect and recognize the balls to improve accuracy.
+
+# Now I have tried with Yolov5 and Yolov8.
+![val_batch1_labels](https://user-images.githubusercontent.com/29145107/231818477-f2e80852-3624-4223-afab-98f6ff2dc4ed.jpg)
