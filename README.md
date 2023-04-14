@@ -51,9 +51,13 @@ Write video.py  file is used to write result in video and text file.
 Information.txt file contain the required file.
 # Experiments with different approach
 I have started with OpenCV 
+
 1st method :- Hough Circle algorithm to detect balls but due to some factors like shadow , make balls udetectable.
+
 2nd method :- OpenCV Legacy trackers, results are same as 1st method.
+
 3rd method :- Tryied to Use CNN to build ball detection model.
+
 4th method :- Use Object Detection Algorithm YoloV3,YoloV4,YoloV5 and YoloV8.
               YoloV8 {roducing good results.
 
