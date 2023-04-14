@@ -50,16 +50,9 @@ Write video.py  file is used to write result in video and text file.
 
 Information.txt file contain the required file.
 # Experiments with different approach
-I have started with OpenCV 
+I have been using OpenCV to detect balls in images. Initially, I attempted to use the Hough Circle algorithm, but it did not work well due to factors such as shadows, which made some balls undetectable. I also tried using OpenCV Legacy trackers, but they yielded similar results as the Hough Circle algorithm.
 
-1st method :- Hough Circle algorithm to detect balls but due to some factors like shadow , make balls udetectable.
-
-2nd method :- OpenCV Legacy trackers, results are same as 1st method.
-
-3rd method :- Tryied to Use CNN to build ball detection model.
-
-4th method :- Use Object Detection Algorithm YoloV3,YoloV4,YoloV5 and YoloV8.
-              YoloV8 {roducing good results.
+Next, I explored using a convolutional neural network (CNN) to build a ball detection model, but it did not provide the desired level of accuracy. Therefore, I decided to try object detection algorithms, including YoloV3, YoloV4, YoloV5, and YoloV8. Out of these, YoloV8 produced the best results
 
 All tasks were completed successfully, but there was a slight loss in accuracy during ball detection. Therefore, I am  building an persistent object detection model that can more smoothly detect and recognize the balls to improve accuracy.
 
