@@ -1,6 +1,7 @@
 In this approach, I utilized various object detection algorithms, including YOLOv3, YOLOv4, YOLOv5, and YOLOv8. After testing each algorithm, YOLOv8 produced the most accurate results.
 
 Furthermore, to improve the accuracy of object tracking, I integrated various trackers, starting with OpenCV legacy trackers and eventually moving on to CAMSHIFT, SORT, and DeepSort trackers. However, the method used for quadrant information remains the same in this code(as used in first method).
+
 Please find below result in video.
 [video google drive](https://drive.google.com/file/d/1Vrz2e5IuTX6v0LtsldFzWvdT4qY9x4W-/view?usp=sharing)
 
